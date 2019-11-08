@@ -14,9 +14,11 @@ const renderPages = () => (
 )
 
 const renderLink = (title, href) => (
-    <Link href={href}>
-        <a style={linkStyle}>{title}</a>
-    </Link>
+    <span id={title}>
+        <Link href={href}>
+            <a style={linkStyle}>{title}</a>
+        </Link>
+    </span>
 )
 
 export default function Header() {
