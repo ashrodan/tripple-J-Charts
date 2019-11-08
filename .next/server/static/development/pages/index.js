@@ -172,7 +172,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 const layoutStyle = {
   margin: 20,
   padding: 20,
-  boarder: '3px solid #DDD'
+  border: '1px solid #DDD'
 };
 function Layout(props) {
   return __jsx("div", {
