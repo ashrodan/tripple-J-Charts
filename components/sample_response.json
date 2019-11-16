@@ -1,0 +1,112 @@
+{
+  "entity": "Recording",
+  "arid": "mtpYbpanGg",
+  "title": "Silver",
+  "metadata": null,
+  "description": null,
+  "duration": 257,
+  "artists": [
+    {
+      "entity": "Artist",
+      "arid": "maOJeNyKYL",
+      "name": "DMA'S",
+      "artwork": [],
+      "links": [
+        {
+          "entity": "Link",
+          "arid": "mlBydr3XkV",
+          "url": "http://musicbrainz.org/artist/3fe35fee-f58a-4bd8-b204-fda60875e560",
+          "id_component": "3fe35fee-f58a-4bd8-b204-fda60875e560",
+          "title": "MusicBrainz artist",
+          "mini_synopsis": null,
+          "short_synopsis": null,
+          "medium_synopsis": null,
+          "type": "service",
+          "provider": "musicbrainz",
+          "external": true
+        },
+        {
+          "entity": "Link",
+          "arid": "mlZyNKpN45",
+          "url": "http://musicbrainz.org/artist/3fe35fee-f58a-4bd8-b204-fda60875e560",
+          "id_component": "3fe35fee-f58a-4bd8-b204-fda60875e560",
+          "title": "MusicBrainz artist",
+          "mini_synopsis": null,
+          "short_synopsis": null,
+          "medium_synopsis": null,
+          "type": "service",
+          "provider": "musicbrainz",
+          "external": true
+        }
+      ],
+      "is_australian": null,
+      "type": "primary"
+    }
+  ],
+  "releases": [
+    {
+      "entity": "Release",
+      "arid": "mrZXrzQY0X",
+      "title": "Silver",
+      "format": "Single",
+      "artwork": [
+        {
+          "entity": "Artwork",
+          "arid": "miKexdOade",
+          "url": "http://www.abc.net.au/triplej/albums/59131/covers/original.jpg",
+          "type": "cover",
+          "title": null,
+          "mini_synopsis": null,
+          "short_synopsis": null,
+          "medium_synopsis": null,
+          "width": 900,
+          "height": 900
+        }
+      ],
+      "links": [],
+      "artists": [
+        {
+          "entity": "Artist",
+          "arid": "maOJeNyKYL",
+          "name": "DMA'S",
+          "artwork": [],
+          "links": [
+            {
+              "entity": "Link",
+              "arid": "mlBydr3XkV",
+              "url": "http://musicbrainz.org/artist/3fe35fee-f58a-4bd8-b204-fda60875e560",
+              "id_component": "3fe35fee-f58a-4bd8-b204-fda60875e560",
+              "title": "MusicBrainz artist",
+              "mini_synopsis": null,
+              "short_synopsis": null,
+              "medium_synopsis": null,
+              "type": "service",
+              "provider": "musicbrainz",
+              "external": true
+            },
+            {
+              "entity": "Link",
+              "arid": "mlZyNKpN45",
+              "url": "http://musicbrainz.org/artist/3fe35fee-f58a-4bd8-b204-fda60875e560",
+              "id_component": "3fe35fee-f58a-4bd8-b204-fda60875e560",
+              "title": "MusicBrainz artist",
+              "mini_synopsis": null,
+              "short_synopsis": null,
+              "medium_synopsis": null,
+              "type": "service",
+              "provider": "musicbrainz",
+              "external": true
+            }
+          ],
+          "is_australian": null,
+          "type": "primary"
+        }
+      ],
+      "record_label": null,
+      "release_year": "2019",
+      "release_album_id": "59131"
+    }
+  ],
+  "artwork": [],
+  "links": []
+}
